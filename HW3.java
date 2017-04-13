@@ -3,5 +3,6 @@ public class HW3{
 	System.out.println("HOMEWORK 3");
 	System.out.println("Second Commit");
 	System.out.println("Third Commit");
+	System.out.println("This Code is made by devel");
      }
 }
